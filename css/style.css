@@ -1,0 +1,67 @@
+header{
+    height: 200px;
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+.nav{
+    height: 200px;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+.content{
+    overflow: hidden;
+}
+.left_two{
+    float: left;
+    height: 500px;
+    background-color: violet;
+    width: 50%;
+
+}
+.left_three{
+    float: left;
+    height: 500px;
+    background-color: darkblue;
+    width: 50%;
+}
+.right_two{
+    float: left;
+    height: 500px;
+    background-color: coral;
+    width: 50%;
+}
+.right_three{
+    float: left;
+    height: 500px;
+    background-color: darkgray;
+    width: 50%;
+}
+.right_threee{
+    float: left;
+    height: 500px;
+    background-color: darkolivegreen;
+    width: 50%;
+}
+.ad{
+    overflow: hidden;
+}
+.ad_left{
+    float: left;
+    width: 25%;
+    height: 200px;
+    background-color: red;
+}
+.ad_right{
+    float: right;
+    width: 75%;
+    height: 200px;
+    background-color: blueviolet;
+}
+footer{
+    height: 100px;
+    text-align: center;
+    color: black;
+    background-color: yellow;
+}
